@@ -26,4 +26,5 @@ RDEPEND="dev-ruby/ruby-ferret
 	dev-ruby/stomp
 	dev-ruby/stompserver
 	dev-ruby/syntax
-	=app-admin/chef-server-slice-0.7.14"
+	=app-admin/chef-server-slice-0.7.14
+	dev-db/couchdb"
